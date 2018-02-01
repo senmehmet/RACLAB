@@ -1,4 +1,4 @@
-# PYTHON2.7 OPENCV3.2 ÖRNEK UYGULAMALAR
+# PYTHON2.7 VE OPENCV3.2 ÖRNEK UYGULAMALAR
 
 **ornk1: Resim Üzerinde Başka Bir Parça Arama**
 
