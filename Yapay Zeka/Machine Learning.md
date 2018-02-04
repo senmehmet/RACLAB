@@ -96,6 +96,9 @@ Lineer regresyonda hesaplanan maliyet fonksiyonuna gerçek değer eksi tahmini d
 Lineer regresyonda hesaplanan maliyet fonksiyonuna gerçek değer eksi tahmini değerlerimizin karelerinin toplamının bir alfa aşırı parametresi ile çarpılmış fonksiyonun eklenmesiyle bulunur.
 
 ## Polynominal(Polinom) Regresyon
+
+Verilerin bir grafik üzerinde doğrusal bir şekilde dağılmadığı durumlarda tahmin yapabilmemizi sağlanayan bir yöntemdir. Tahmin derecesi ve denklemi belirli olan bir eğriye bakılarak yapılır. Eğrimizin derecesini belirlerken çok düşük dereceler kullanmak **Underfitting (tam uyumsuzluk)** problemine, çok yüksek dereceler kullanmak ise **Overfitting  (aşırı uyumluluk)** problemine neden olur. 
+
 ![Polinom Regresyon](http://www.datascience.istanbul/wp-content/uploads/2017/06/Lineer_Regresyon_Notlar%C4%B1_10_Polinom_Regresyon_with_R_Polinom_Model_Grafik.png)
 
 ### Numpy Kütüphanesi ile Polinom Regresyon Örneği
@@ -122,8 +125,13 @@ Lineer regresyonda hesaplanan maliyet fonksiyonuna gerçek değer eksi tahmini d
 	plt.show()
 	print(a,"x^3+",b,"x^2+",c,"x+",d) #dogrunun hesaplanan a b c d katsayilari
 
+## Logistics (Lojistik) Regresyon
 
-	
+Lojistik regresyon cevap değişkeninin kategorik olarak ikili ve çoklu kategorilerde gözlendiği durumlarda açıklayıcı değişkenlerle sebep-sonuç ilişkisini belirlemede kullanılan bir yöntemdir.
+
+![Lojistik Regresyon](https://helloacm.com/wp-content/uploads/2016/03/logistic-regression-example.jpg)
+Yukarıdaki resimde doğru ve yanlış olan veriler lojistik regresyon yöntemi ile sınıflandırılmıştır.
+
 
 
 
