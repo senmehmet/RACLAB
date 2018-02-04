@@ -33,6 +33,7 @@ Hatanın doğrunun her konumuna göre hesaplanması ve hatayı azaltacak şekild
 ![Doğrusal Regresyon](https://mertricks.files.wordpress.com/2015/06/18.png)
 
 ![maliyet fonksiyonu](https://i.hizliresim.com/azMoWR.png)
+
 Yukarıda bulunan fonksiyon lineer regresyon için hata hesaplamasında kullanılan maliyet fonksiyonudur. Tüm veriler için gerçek değer(y) eksi tahmini değerin(f(x)) kareleri alınıp ikiye bölünerek hesaplanır.
 
 ### Numpy Kütüphanesi ile Linear Regresyon Örneği
@@ -130,7 +131,17 @@ Verilerin bir grafik üzerinde doğrusal bir şekilde dağılmadığı durumlard
 Lojistik regresyon cevap değişkeninin kategorik olarak ikili ve çoklu kategorilerde gözlendiği durumlarda açıklayıcı değişkenlerle sebep-sonuç ilişkisini belirlemede kullanılan bir yöntemdir.
 
 ![Lojistik Regresyon](https://helloacm.com/wp-content/uploads/2016/03/logistic-regression-example.jpg)
+
 Yukarıdaki resimde doğru ve yanlış olan veriler lojistik regresyon yöntemi ile sınıflandırılmıştır.
+
+## K-Nearest Neighbor (K- En Yakın Komşular) Algoritması ile Sınıflandırma
+
+Elimizde olan ve hangi sınıftan olduğunu bildiğimiz verileri kullanarak yeni gelen ve sınıfı belirli olmayan verilerin sınıflarını tahmin etmek için kullanılan bir yöntemdir. Sınıfı belirli olan ve sınıfı tahmin edilecek olan verilerimizi grafik üzerine yerleştirilir. Tahmin edilecek noktaya en yakın K sayısı kadar noktaya olan uzaklıkları öklit bağıntısı ile hesaplanır. En yakın K adet noktalarda hangi sınıf fazla ise yeni gelen verimizin sınıfı o kabul edilir. K sayısı belirlerken sonuçta 2 sınıfın sayıları eşit çıkmayacak şekilde belirlenmesi gerekmektedir. Örneğin iki sınıfımız varsa belirlenen noktaların sayıları eşit çıkabileceğinden dolayı K değerimize çift bir değer yerine tek bir değer vermemiz gerekir. K'nin en çok kullanılan değerleri 3 ile 10 arasındadır.
+
+![KNN](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/63621/versions/2/screenshot.gif)
+
+
+
 
 
 
