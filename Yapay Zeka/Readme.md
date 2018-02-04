@@ -95,5 +95,7 @@ https://keras.io/
 
 [Deep Learning Türkiye](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
+[Makine Öğrenmesi Youtube](https://www.youtube.com/channel/UCvaBuYQM07ZYa4NfZ3hRzvw/playlists)
+
 
 
