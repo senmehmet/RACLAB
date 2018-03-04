@@ -2,15 +2,15 @@
 
 ## Single Layer Neural Networks
 
-![Single Layer](http://neuroph.sourceforge.net/tutorials/images/perceptron.jpg)
-![asd](https://github.com/raclab/RACLAB/blob/master/images/AI/singlelayer.jpeg)
-![Perseptrons](https://codesachin.files.wordpress.com/2015/12/actfn001.jpg)
+![Single Layer](https://github.com/raclab/RACLAB/blob/master/images/AI/singlelayer.jpeg)
+
+![Perseptrons](https://github.com/raclab/RACLAB/blob/master/images/AI/node.jpeg)
 
 ## Multi Layer Neural Networks
 
-![Multi Layer](http://www.mdpi.com/sensors/sensors-09-02586/article_deploy/html/images/sensors-09-02586f6-1024.png)
+![Multi Layer](https://github.com/raclab/RACLAB/blob/master/images/AI/multilayer.png)
 
-![Function](https://www.analyticsvidhya.com/wp-content/uploads/2016/07/SLP.png)
+![Function](https://github.com/raclab/RACLAB/blob/master/images/AI/node2.png)
 
 ## Aktivasyon Fonksiyonları
 
