@@ -33,3 +33,5 @@ Motor sola doğru dönerken sağa dön komutu almaz. Stop(1) butonuna basınca �
 
 NETWORK 5
 Motorun hangi durumda olduğunu anlamak için yapılmıştır. Çıkışlara röle bağlanır.(PLC’ye zarar vermemek için)
+
+Ekteki dosya tia portalda yapılmış projedir.
