@@ -1,5 +1,5 @@
 import numpy as np
-import cv2
+import cv2             
 
 greenLower = np.array([169, 100, 100])
 greenUpper = np.array([189, 255, 255])	
