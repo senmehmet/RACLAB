@@ -1,4 +1,5 @@
-import numpy as np
+
+import numpy as np   #opencv kutuphanesi çağırılır
 import cv2             
 
 greenLower = np.array([169, 100, 100])
