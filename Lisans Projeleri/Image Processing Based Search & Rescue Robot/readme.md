@@ -1,7 +1,7 @@
 	As a result of  the major developments in the robot technology, 
 	robots can now help people in their daily lives, and in some cases
 	they can even take their place. Search and rescue robots are one of 
-        the best examples of such robots. These robots are designed to pro-
+       the best examples of such robots. These robots are designed to pro-
 	vide information to search and rescue teams, help rescue teams iden-
 	tify the locations of the living , provide primary life support and
 	the ability  of communication with the victims in situations where
